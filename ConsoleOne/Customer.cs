@@ -6,5 +6,6 @@ namespace ConsoleOne
 {
     public class Customer
     {
+        public string Name { get; set; }
     }
 }
