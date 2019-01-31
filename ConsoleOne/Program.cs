@@ -7,6 +7,7 @@ namespace ConsoleOne
         static void Main(string[] args)
         {
             // First commit
+            // Second commit on feature branch
             Console.WriteLine("Hello World!");
         }
     }
