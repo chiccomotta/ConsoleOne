@@ -6,6 +6,7 @@ namespace ConsoleOne
     {
         static void Main(string[] args)
         {
+            // changes unstaged
             Console.WriteLine("Hello World!");
         }
     }
