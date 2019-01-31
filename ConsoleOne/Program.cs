@@ -8,6 +8,8 @@ namespace ConsoleOne
         {
             // First commit
             // Second commit on feature branch
+            // Third commit on feature branch
+
             Console.WriteLine("Hello World!");
         }
     }
