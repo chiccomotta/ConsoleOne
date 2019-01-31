@@ -7,6 +7,7 @@ namespace ConsoleOne
         static void Main(string[] args)
         {
             // First commit
+            // Patch commit
             Console.WriteLine("Hello World!");
         }
     }
